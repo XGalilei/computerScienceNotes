@@ -1,0 +1,4 @@
+Heapsort Procedure
+1: Construct a heap (θ(n) efficiency)
+2: Repeat key-delete n-1 times (θ(log n) efficiency for each time)
+Efficiency: θ(n) + θ(n log n) => θ(n log n)
