@@ -1,0 +1,16 @@
+Problem Reduction
+-Transform a problem into another problem that we already know how to solve.
+Utility
+1: Encounter similar problem
+2: Proof hardness of algorithm
+
+Example: Missionaries & Cannibals
+-3 missionaries, 3 cannibals, 1 boat with 2 person capacity
+-There can never be more cannibals than missionaries, or else the cannibals will eat the missionaries
+-Try to get all six people across the river without having any of the missionaries eaten by the cannibals
+
+List<m, c, b>
+//m missionaries on the wrong side of the river
+//c cannibals on the wrong side of the river
+//people in the boat
+-reduce the problem into a graph. The vertices represent the state, while the edges represent transitions between states
