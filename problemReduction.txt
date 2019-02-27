@@ -14,3 +14,4 @@ List<m, c, b>
 //c cannibals on the wrong side of the river
 //people in the boat
 -reduce the problem into a graph. The vertices represent the state, while the edges represent transitions between states
+-Only explore states which haven't been explored
