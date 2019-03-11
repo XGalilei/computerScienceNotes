@@ -1,6 +1,6 @@
 Compiling in Walgren:
 g++ standard compilation
-Use (cxx_FLAGS = "-g-O0")
+Use (cxx_FLAGS = "-g -O0")
 --Tells compiler to add these arguments when compiling code
---LD_FLAGES = "-g-O0"
---This will avoid optimization, and help you avoid any unnecessary problems
+--LD_FLAGES = "-g -O0"
+-- "-O0" This will avoid optimization, and help you avoid any unnecessary problems
