@@ -49,3 +49,7 @@ Find your aggregator (Example: life hacker, the verge)
 Rescue Time: monitors your internet web time and gives you a gage on your productivity
 Sync to Paper
 Instapaper: Read it Later option
+If it's not helping me to ________, throw it out.
+Audit & Sort your Surces
+Schedule "Work Sprints"
+Turn off distractions
