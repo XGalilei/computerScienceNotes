@@ -42,3 +42,4 @@ Conserve your keystrokes
 Email is where your keystrokes go to die: limit the number of sentences you have in a sentence.
 Inbox is for processing, not the final destination
 Embrace flow: set a time for yourself in which you work on what you decide to work on with NO INTERRUPTIONS.
+The optimal number of threads for any system is ONE
