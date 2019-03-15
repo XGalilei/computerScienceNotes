@@ -1,2 +1,41 @@
 Programmer's Half-Life: the time it takes for half of a programmer's knowledge to become obsolete.
 A programmer's half-life is about three years: you need to keep learning constantly to keep ahead in the field.
+
+SLACK may be helpful in maintaining communication among programming teams.
+Consider using MathLab for prototyping algorithms.
+Askhole: Someone who always asks you for advice by doesn't take any advice.
+The less you do, the more of it you can do.
+It is physically impossible to catch up.
+What is a phony?
+* Missing deadlines
+* Feeling like a dailure
+* Family complains
+* "I just need to work late to catch up." (That is a steaming pile of bullshit)
+Check out Scott Hanselman's blog post on being a phony
+Hoping it'll get better won't make it better
+What is the difference between effectiveness and efficiency?
+Effectiveness is doing the right things, Efficiency is doing things right.
+Three Fold-Nature of Work
+*Pre-defined work
+*Work as it appears <- (this is what we spend the most time on)
+*Defining Works 
+Do more defining work: sit down, decide what you need to get done, assign priorities, then do 4 Ds
+4 Ds:
+*Do it -> Do it now
+*Drop it -> Decide when to do it
+*Delegate it 
+*Dump it 
+Procrastination is setting yourself up for failure
+Any good system has Flow Control
+Communication is Fault Tolerant
+You can have good, fast, or cheap. Pick two.
+If you say you're always available, you're saying to your boss that your personal time is meaningless
+Write down the three things you want to get done today/this week/this year.
+Monday vision, Friday reflection
+"Being busy is a form of laziness - lazy thinking and indiscriminate action." -Timonthy Ferriss
+Being creative and making something the opposite of hanging out.
+Create one Email Rule to Rule Them All (I REALLY need to do that with Outlook)
+Don't check email in the morning, or you'll time travel to the afternoon
+Schedule yourself time for email (or other activities)
+Urgency addiction?
+Conserve your keystrokes
