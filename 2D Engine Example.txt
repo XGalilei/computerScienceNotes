@@ -1,0 +1,29 @@
+check out the following video: https://www.youtube.com/watch?v=z0S5Ded2IJY
+
+package com.base.game.uncategorized;
+
+public class Main
+{
+  private static Game game;
+  
+  private static void initGame()
+  {
+    game = new Game();
+  }
+  
+  private static void getInput()
+  {
+    game.getInput();
+  }
+  
+  public static void main(String[] args)
+  {
+    initDisplay();
+    initGL();
+    
+    initGame();
+    
+    gameLoop();
+    cleanUp();
+  }
+}
