@@ -1,0 +1,3 @@
+==Introduction==
+Compilers:
+-Since machines only understand machine code, there must be a way to convert high-order languages into machine code
