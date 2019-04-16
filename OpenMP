@@ -2,3 +2,4 @@ Allows for parallel computing: run the same program at the same time, using the 
 
 Pragmas: comment lines, signal the compiler to ignore that line
 Add a line to the compiler to allow OpenMP (-fopenmp, as in g++ -fopenmp)
+Number of threads is specified
